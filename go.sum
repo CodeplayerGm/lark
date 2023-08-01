@@ -1,3 +1,5 @@
+github.com/chyroc/lark v0.0.111 h1:LNThPn0DkYw+JmWbTRTIE4DdFRXV1PzCI3Ww5P12PHY=
+github.com/chyroc/lark v0.0.111/go.mod h1:pwj/p5/dHocDYkTPvHF9ig+O+xSkqfFC4T0cjcjMhUc=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
